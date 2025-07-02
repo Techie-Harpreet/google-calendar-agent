@@ -22,7 +22,7 @@ st.caption("Your friendly AI agent for booking appointments")
 # When running locally, both are on your machine.
 # When deployed, this will be the URL of your deployed backend.
 # BACKEND_URL = "http://127.0.0.1:8000/chat" 
-BACKEND_URL = "https://google-calendar-agent-jzlh.onrender.com" 
+BACKEND_URL = "https://google-calendar-agent-jzlh.onrender.com/chat" 
 
 
 # Initialize session_id if it doesn't exist
