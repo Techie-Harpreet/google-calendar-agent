@@ -1,5 +1,3 @@
-# frontend/app.py
-
 import streamlit as st
 import requests
 import uuid
@@ -19,8 +17,6 @@ st.caption("Your friendly AI agent for booking appointments")
 # We store the chat history and a unique session ID.
 
 # The backend API URL
-# When running locally, both are on your machine.
-# When deployed, this will be the URL of your deployed backend.
 BACKEND_URL = "http://127.0.0.1:8000/chat" 
 
 
