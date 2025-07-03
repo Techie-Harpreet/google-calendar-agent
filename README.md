@@ -8,7 +8,7 @@ This project is a conversational AI agent designed to help users book appointmen
 
 **You can try the live application here:** **[calendar-agent-ai.streamlit.app](https://calendar-agent-ai.streamlit.app/)**
 
-![Screenshot](https://i.imgur.com/r6hS0hO.png)
+![Screenshot](Screenshot/screenshot.png)
 
 ---
 
