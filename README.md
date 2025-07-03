@@ -125,9 +125,4 @@ This will open the Streamlit chat interface in your browser.
 
 ---
 
-## ☁️ Deployment
 
-This application was deployed on [Render](https://render.com/) and [Streamlit Community Cloud](https://streamlit.io/cloud).
-
-- **Backend Service:** Deployed on Render as a Web Service. Environment variables and the `credentials.json` secret file were configured on the platform.
-- **Frontend Service:** Deployed on Streamlit Community Cloud, with the `BACKEND_URL` environment variable pointing to the public URL of the deployed backend service.
